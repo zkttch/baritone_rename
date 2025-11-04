@@ -15,6 +15,7 @@
  * along with Baritone.  If not, see <https://www.gnu.org/licenses/>.
  */
 
+
 import baritone.gradle.task.CreateDistTask
 import baritone.gradle.task.ProguardTask
 
