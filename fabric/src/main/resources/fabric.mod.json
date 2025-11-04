@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "baritone",
+  "id": "barfpsfix",
   "version": "${version}",
 
-  "name": "Baritone",
-  "description": "Google Maps for Blockgame",
+  "name": "barfpsfix",
+  "description": "e",
   "authors": [
     "leijurv", "Brady"
   ],
